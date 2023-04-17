@@ -1,0 +1,3 @@
+module DualDiff
+
+end
